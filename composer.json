@@ -1,0 +1,15 @@
+{
+  "name": "vundb/meleven-framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Viktor Breitenbuecher",
+      "email": "vic.b@outlook.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.3"
+  }
+}
