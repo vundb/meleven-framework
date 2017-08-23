@@ -7,6 +7,11 @@
       "email": "vic.b@outlook.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Vundb\\MelevenFramework\\": "src"
+    }
+  },
   "require": {
   },
   "require-dev": {
